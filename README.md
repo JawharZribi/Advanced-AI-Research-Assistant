@@ -66,8 +66,6 @@ This project is a sophisticated, full-stack AI agent designed for advanced docum
 
 ### Usage
 
-This is the simplest way to run the application.
-
 1.  **Start the application:**
     ```bash
     docker-compose up --build
