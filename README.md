@@ -38,8 +38,7 @@ This project is a sophisticated, full-stack AI agent designed for advanced docum
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [[https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)](https://github.com/JawharZribi/Advanced-AI-Research-Assistant.git)
     ```
 
 2.  **Download Local LLMs:**
